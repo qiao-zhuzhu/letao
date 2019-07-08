@@ -1,0 +1,7 @@
+.mui-table-view-cell a {
+    font-size: 14px;
+}
+
+.mui-bar-nav~.mui-content {
+    padding-top: 30px;
+}

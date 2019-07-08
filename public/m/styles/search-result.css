@@ -1,0 +1,42 @@
+.mui-bar-tab~.mui-content {
+    padding-bottom: 0;
+}
+
+.mui-bar-nav~.mui-content {
+    padding-top: 0;
+}
+
+.filter {
+    text-align: center;
+    height: 35px;
+    line-height: 35px;
+    margin: 10px;
+    font-size: 14px;
+}
+
+.product {
+    margin-bottom: 50px;
+}
+
+.mui-content {
+    position: absolute;
+    top: 44px;
+    left: 0;
+    bottom: 50px;
+}
+
+.mui-col-xs-6 {
+    background-color: #efeff4;
+}
+
+.mui-content .mui-icon {
+    font-size: 12px;
+}
+
+#refreshContainer {
+    position: absolute;
+    top: 44px;
+    left: 0;
+    bottom: 55px;
+    width: 100%;
+}
